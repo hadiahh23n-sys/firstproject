@@ -1,0 +1,15 @@
+marks=input("Enter the marks: ")
+marks= int(marks)
+
+if(marks>=90 and<=100)
+print("A")
+elif(marks>=80 and < 90)
+print("B")
+elif(marks>=70 and < 80)
+print("C")
+elif(marks>=60 and < 70)
+print("D")
+elif(marks>=50 and <60)
+print("E")
+else
+print("Fail")
